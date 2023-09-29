@@ -90,3 +90,6 @@ npm run dev
 ## Feedback
 
 Overall, we enjoyed working together to build this project. By collaborating, we realized the effectiveness of team projects and how to manage projects without having to continually check on each other's progress. This experience also helped us understand the complexity and nuances required to build everyday sites.
+
+## Screenshots
+![alt text](https://github.com/jrm0527/spooify/blob/main/spooify.png?raw=true)
